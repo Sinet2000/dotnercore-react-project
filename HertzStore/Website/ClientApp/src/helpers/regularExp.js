@@ -1,0 +1,1 @@
+export const priceExpression = RegExp(/^[+]?(([1-9]\d*)|0)(\.\d+)?/)
